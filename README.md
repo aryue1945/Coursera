@@ -15,15 +15,13 @@ Programming Assignment 2 Checklist: Deques and Randomized Queues
 http://coursera.cs.princeton.edu/algs4/checklists/queues.html
 Passed · 100/100 points
 
-http://coursera.cs.princeton.edu/algs4/assignments/collinear.html
-
 Programming Assignment 3: Pattern Recognition
 http://coursera.cs.princeton.edu/algs4/assignments/collinear.html
 Programming Assignment 3 Checklist: Pattern Recognition
 http://coursera.cs.princeton.edu/algs4/checklists/collinear.html
 Passed · 98/100 points
 
-COS 226 Programming Assignment 8 Puzzle
+COS 226 Programming Assignment 4 : 8 Puzzle
 http://coursera.cs.princeton.edu/algs4/assignments/8puzzle.html
 Programming Assignment 4 Checklist: 8 Puzzle
 http://coursera.cs.princeton.edu/algs4/checklists/8puzzle.html
